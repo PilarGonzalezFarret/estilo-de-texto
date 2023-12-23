@@ -1,0 +1,28 @@
+body {
+    font-family: cursive;
+}
+
+.titulo {
+    background-color: black;
+    color: aliceblue;
+}
+
+.cloud {
+    color:aqua;
+}
+
+.texto {
+    font-style: italic;
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
+}
+
+.contacto {
+    background-color: skyblue;
+    text-align: right;
+}
+
+.contacto a {
+    color: black;
+}
